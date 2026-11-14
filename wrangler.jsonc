@@ -1,0 +1,8 @@
+{
+  "name": "aiden-home",          // 你的 Worker 项目名，改成你自己的
+  "compatibility_date": "2026-11-14",
+  "assets": {
+    "directory": "./public"          // 如果你的 index.html 就在根目录，用 "./"
+                               // 如果在前端文件夹里（比如 public/），改成 "./public"
+  }
+}
